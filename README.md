@@ -682,3 +682,12 @@ theking@kingdomofmurabba.org
   </script>
 </body>
 </html>
+[assetlinks.json](https://github.com/user-attachments/files/33600277/assetlinks.json)
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.github.twa",
+        "sha256_cert_fingerprints": ["0A:98:9E:7B:18:76:07:F9:20:50:72:CC:C6:6C:91:32:3C:48:3C:EC:14:6F:28:8E:4A:F8:4A:DC:79:CF:56:95"]
+      }
+    }]
